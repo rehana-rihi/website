@@ -1,0 +1,33 @@
+body{
+    background-color: azure;
+}.container {
+    padding: 16px;
+    text-align: center;
+    margin-top: 5%;
+    
+  }
+  h1{
+    margin-top: 3%;
+  }
+  
+  span.psw {
+    float: right;
+    padding-top: 16px;
+  }
+  input{
+    background-color: skyblue;
+  }
+  
+  /* Change styles for span and cancel button on extra small screens */
+  @media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 100%;
+    }
+  }
+  button{
+    background-color:skyblue;
+  }

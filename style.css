@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://c1.wallpaperflare.com/preview/939/768/62/herbs-leaves-flowers-teacup.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color:aqua;
+    text-shadow: 2px 2px 5px orange;
+}
+nav{
+    padding-left: 80%;
+    padding-top: 50px;
+}
+nav a{
+    color:cyan;
+    margin: auto;
+    margin-right:30px;
+    text-decoration: none;
+    font-size: large;
+    
+}
+
